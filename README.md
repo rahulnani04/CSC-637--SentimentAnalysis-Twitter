@@ -40,9 +40,9 @@ CSC-637--SentimentAnalysis-Twitter/
 
 2. Navigate to the project directory:
 
- 
+      ``` bash 
    cd CSC-637--SentimentAnalysis-Twitter
-   ```
+   ``` bash
 
 3.Launch Jupyter Notebook:
 
